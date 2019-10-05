@@ -1,0 +1,1 @@
+sqlplus node/node@orclpdb1 @.scripts/test_json

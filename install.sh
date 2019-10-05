@@ -1,0 +1,1 @@
+rlwrap sqlplus node/node@orclpdb1 @install
